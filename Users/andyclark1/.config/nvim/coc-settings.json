@@ -1,0 +1,36 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": ["typescript", "javascript"],
+  "diagnostic.virtualText": false,
+  "codeLens.enable": true,
+  "suggest.echodocSupport": true,
+  "suggest.acceptSuggestionOnCommitCharacter": false,
+  "coc.preferences.colorSupport": true, 
+  "diagnostic.virtualTextPrefix": "ﯦ ",
+  "diagnostic.errorSign": "",
+  "diagnostic.warningSign": "",
+  "diagnostic.infoSign": "",
+  "diagnostic.hintSign": "ﯦ",
+  "tsserver.enable": true,
+  "tsserver.trace.server": "verbose",
+  "tsserver.log": "verbose",
+  "suggest.enablePreview": true,
+  "languageserver": {  
+  "golang": {
+    "command": "gopls",
+    "rootPatterns": ["go.mod"],
+    "filetypes": ["go"]
+  }, 
+    "ocaml": {
+    "command": "opam",
+    "args": ["config", "exec", "--", "ocaml-language-server", "--stdio"],
+    "filetypes": ["ocaml", "reason"]
+  },
+    "bash": {
+      "command": "bash-language-server",
+      "args": ["start"],
+      "filetypes": ["sh"],
+      "ignoredRootPaths": ["~"]
+    }
+  }
+}
+ 
