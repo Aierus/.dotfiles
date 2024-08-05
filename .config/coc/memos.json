@@ -1,0 +1,4313 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "866bb988af165b9a0b3c9de93a759dd48803998129b8d7cee34b22e46a9672ccb52948aebacde0df8a1e96eca8b7fd9db6cba2f2e0be8621c0f7139bdc353058",
+        "companyDisplayName": "Anaconda, Inc.",
+        "type": "Conda",
+        "envPath": "/opt/homebrew/anaconda3",
+        "envName": "anaconda3"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/opt/homebrew/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.18-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.18-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "70e4e72b72e5f2c4b58819a24af014f01b7be12111366334bd995ec897b09c973b2538519075e1cc970f1910e410ed7cdd995b9302b870c92a0c85b48644615d"
+      },
+      "expiry": 1716401025380
+    },
+    "/usr/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1642884732640
+    },
+    "/opt/homebrew/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "ffd43bb567d744f23261186782993b11f6da117ad790d4cdd96b7988b1df8dc6aa83686fc51234572e2bc4636a31e06a8fed75e94e66ff80ce6e900bbb48f579"
+      },
+      "expiry": 1716401025392
+    },
+    "/usr/bin/python2.7.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2.7",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1642884732685
+    },
+    "/usr/bin/python2.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python2",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1642884732641
+    },
+    "/opt/homebrew/opt/python@3.9/bin/python3.9.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.9/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.14-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 14,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.14-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "3786a520015fb02c6f0d419b4fad93e928cb649125bc30dbcdb7f9ab6625e33ebbab86fc41b5534ba0ec1cabddb6c506340f31e18cbc6cb5a29c439887d54f7d"
+      },
+      "expiry": 1673193963213
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "2.7.18-final",
+          "major": 2,
+          "minor": 7,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "2.7.18-final"
+        },
+        "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9"
+      },
+      "expiry": 1642884732685
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "31e09b7add872f6f07d2d4f0a26e572b7a1f89c9d2511401287843d47c75ca2525c79d0926ea0df03ded1ddb1d6c337dfcf3c3e0b06a32f712ebc829f45545a5",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.8-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "83c28564a56b5fe9ed318e50770d879da6b8e8180b6efcdd7fd329e09d84cdc0b7f92c9315ca1ed482914f673afdb10de136ac51865b63479e3520b07f7df709",
+        "type": "Unknown"
+      }
+    ],
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe",
+      "type": "Unknown",
+      "displayName": "Python 3.12.2 64-bit"
+    },
+    "/opt/homebrew/opt/python@3.9/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "3786a520015fb02c6f0d419b4fad93e928cb649125bc30dbcdb7f9ab6625e33ebbab86fc41b5534ba0ec1cabddb6c506340f31e18cbc6cb5a29c439887d54f7d"
+      },
+      "expiry": 1673193963162
+    },
+    "/opt/local/bin/python3.8.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/local/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/opt/local/Library/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "99df433d8d423508abb13fc7cc5cf6b379781b6f64927c877056737433eeaadec829b75b6c503aecb832b74b2744a3f5328772e37ac4feaa8bd2e4cfeb271478"
+      },
+      "expiry": 1716401025511
+    },
+    "/opt/homebrew/opt/python@3.9/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.14 64-bit",
+        "hash": "3786a520015fb02c6f0d419b4fad93e928cb649125bc30dbcdb7f9ab6625e33ebbab86fc41b5534ba0ec1cabddb6c506340f31e18cbc6cb5a29c439887d54f7d-837eab9f2cc9642acceeecdb5e0fc2df"
+      },
+      "expiry": 1673193963216
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "9c899bddc233741b705738badd527d5a0ed2fe4b4ce9f4f7063b95837cd8c242f91bf1a0758d4d2c863246189f2a736317c5f14f34033477f245ea3caa768751"
+      },
+      "expiry": 1716401282689
+    },
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "31e09b7add872f6f07d2d4f0a26e572b7a1f89c9d2511401287843d47c75ca2525c79d0926ea0df03ded1ddb1d6c337dfcf3c3e0b06a32f712ebc829f45545a5",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "2b0932f4aeddfe373b6acc1a6c262de691a7536201f383b6e97a5dfff4659f4627bf6a2ced7acb69698884ff9238ca9b11819b4572ed79de715a16720521ab29",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "31e09b7add872f6f07d2d4f0a26e572b7a1f89c9d2511401287843d47c75ca2525c79d0926ea0df03ded1ddb1d6c337dfcf3c3e0b06a32f712ebc829f45545a5",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "2b0932f4aeddfe373b6acc1a6c262de691a7536201f383b6e97a5dfff4659f4627bf6a2ced7acb69698884ff9238ca9b11819b4572ed79de715a16720521ab29",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "ffd43bb567d744f23261186782993b11f6da117ad790d4cdd96b7988b1df8dc6aa83686fc51234572e2bc4636a31e06a8fed75e94e66ff80ce6e900bbb48f579",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.13-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.13-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "81ef164ed8a356da5ff8645a36f2ff323a958dfb4277e3eb25f8422dfb5c467d6c3260228465f74ef8059cf7ab815d367f11666f4a4e80dd1919ddff6ae46a50",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.8-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "93de92fe522704259c5980499e2ba103d29a66254bad5592b071ee2fadc95a6b0d9759fc5a018a48f3e221ed4453bab75f3ae81714aad4f0dc775c84ffde830b",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "bd351ebe7984fea6140df5dc45f15dceff018b116e251a0e54b6d68e06c90aee0dc237ee9cb3035a3fa011b762863a5b43daffb78d2ab2c6db3abb901bbf9b42",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.9",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.18-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 18,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.18-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+        "fileHash": "70e4e72b72e5f2c4b58819a24af014f01b7be12111366334bd995ec897b09c973b2538519075e1cc970f1910e410ed7cdd995b9302b870c92a0c85b48644615d",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/local/bin/python3.8",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.8.5-final",
+          "major": 3,
+          "minor": 8,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.8.5-final"
+        },
+        "sysPrefix": "/opt/local/Library/Frameworks/Python.framework/Versions/3.8",
+        "fileHash": "99df433d8d423508abb13fc7cc5cf6b379781b6f64927c877056737433eeaadec829b75b6c503aecb832b74b2744a3f5328772e37ac4feaa8bd2e4cfeb271478",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "9c899bddc233741b705738badd527d5a0ed2fe4b4ce9f4f7063b95837cd8c242f91bf1a0758d4d2c863246189f2a736317c5f14f34033477f245ea3caa768751",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.9.6-final",
+          "major": 3,
+          "minor": 9,
+          "patch": 6,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.9.6-final"
+        },
+        "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+        "fileHash": "9c899bddc233741b705738badd527d5a0ed2fe4b4ce9f4f7063b95837cd8c242f91bf1a0758d4d2c863246189f2a736317c5f14f34033477f245ea3caa768751",
+        "type": "Unknown"
+      }
+    ],
+    "PipEnvInformation": [],
+    "/opt/homebrew/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.2 64-bit",
+        "hash": "ffd43bb567d744f23261186782993b11f6da117ad790d4cdd96b7988b1df8dc6aa83686fc51234572e2bc4636a31e06a8fed75e94e66ff80ce6e900bbb48f579-7989345cc006ff64ba2fc0db52a0dce5"
+      },
+      "expiry": 1716401284270
+    },
+    "/opt/local/bin/python3.8.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.8.5 64-bit",
+        "hash": "99df433d8d423508abb13fc7cc5cf6b379781b6f64927c877056737433eeaadec829b75b6c503aecb832b74b2744a3f5328772e37ac4feaa8bd2e4cfeb271478-de8729b7f040b01b55988047ab16fa8c"
+      },
+      "expiry": 1716401284284
+    },
+    "/usr/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9-b217ac62bc07e69063324488ae0f9e29"
+      },
+      "expiry": 1642884732718
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.6 64-bit",
+        "hash": "9c899bddc233741b705738badd527d5a0ed2fe4b4ce9f4f7063b95837cd8c242f91bf1a0758d4d2c863246189f2a736317c5f14f34033477f245ea3caa768751-3209dc0c9b670b8da90471da72240915"
+      },
+      "expiry": 1716401284291
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 2.7.18 64-bit",
+        "hash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9-67f655005007a67696ad6923199829e8"
+      },
+      "expiry": 1642884732719
+    },
+    "/opt/homebrew/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "ffd43bb567d744f23261186782993b11f6da117ad790d4cdd96b7988b1df8dc6aa83686fc51234572e2bc4636a31e06a8fed75e94e66ff80ce6e900bbb48f579",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.2-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.2-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+          "fileHash": "ffd43bb567d744f23261186782993b11f6da117ad790d4cdd96b7988b1df8dc6aa83686fc51234572e2bc4636a31e06a8fed75e94e66ff80ce6e900bbb48f579",
+          "type": "Unknown",
+          "displayName": "Python 3.12.2 64-bit"
+        }
+      },
+      "expiry": 1716401284304
+    },
+    "/opt/local/bin/python3.8.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "99df433d8d423508abb13fc7cc5cf6b379781b6f64927c877056737433eeaadec829b75b6c503aecb832b74b2744a3f5328772e37ac4feaa8bd2e4cfeb271478",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/local/bin/python3.8",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.8.5-final",
+            "major": 3,
+            "minor": 8,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.8.5-final"
+          },
+          "sysPrefix": "/opt/local/Library/Frameworks/Python.framework/Versions/3.8",
+          "fileHash": "99df433d8d423508abb13fc7cc5cf6b379781b6f64927c877056737433eeaadec829b75b6c503aecb832b74b2744a3f5328772e37ac4feaa8bd2e4cfeb271478",
+          "type": "Unknown",
+          "displayName": "Python 3.8.5 64-bit"
+        }
+      },
+      "expiry": 1716401284345
+    },
+    "/usr/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1642884732723
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9c899bddc233741b705738badd527d5a0ed2fe4b4ce9f4f7063b95837cd8c242f91bf1a0758d4d2c863246189f2a736317c5f14f34033477f245ea3caa768751",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.6-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 6,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.6-final"
+          },
+          "sysPrefix": "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9",
+          "fileHash": "9c899bddc233741b705738badd527d5a0ed2fe4b4ce9f4f7063b95837cd8c242f91bf1a0758d4d2c863246189f2a736317c5f14f34033477f245ea3caa768751",
+          "type": "Unknown",
+          "displayName": "Python 3.9.6 64-bit"
+        }
+      },
+      "expiry": 1716401284365
+    },
+    "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+        "info": {
+          "architecture": 3,
+          "path": "/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "2.7.18-final",
+            "major": 2,
+            "minor": 7,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "2.7.18-final"
+          },
+          "sysPrefix": "/System/Library/Frameworks/Python.framework/Versions/2.7",
+          "fileHash": "c72b27555756bee6a8480b086484361147beecb25e73087c260b88ac311dbf43189c9258ab57b7a028c3e52738a8d6958604adacd89b626b01b6a4639b25c6a9",
+          "type": "Unknown",
+          "displayName": "Python 2.7.18 64-bit"
+        }
+      },
+      "expiry": 1642884732725
+    },
+    "ProposeLSBanner": false,
+    "/opt/homebrew/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.13-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.13-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "81ef164ed8a356da5ff8645a36f2ff323a958dfb4277e3eb25f8422dfb5c467d6c3260228465f74ef8059cf7ab815d367f11666f4a4e80dd1919ddff6ae46a50"
+      },
+      "expiry": 1716401025376
+    },
+    "/opt/homebrew/opt/python@3.10/bin/python3.10.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.10.13-final",
+          "major": 3,
+          "minor": 10,
+          "patch": 13,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.10.13-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+        "fileHash": "635789be668d10af2ed426cd5bf89f9bf8eb3d7049ffbb50d02ca77bf0af3ed366f55c2bca98a243165a351fa59dbe8a24391a938cd10c38e998c4e946f2c32d"
+      },
+      "expiry": 1708796276961
+    },
+    "/opt/homebrew/opt/python@3.10/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.13 64-bit",
+        "hash": "635789be668d10af2ed426cd5bf89f9bf8eb3d7049ffbb50d02ca77bf0af3ed366f55c2bca98a243165a351fa59dbe8a24391a938cd10c38e998c4e946f2c32d-49c22f09b56f810cd8e9c526e0372271"
+      },
+      "expiry": 1708796276965
+    },
+    "/opt/homebrew/opt/python@3.10/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "635789be668d10af2ed426cd5bf89f9bf8eb3d7049ffbb50d02ca77bf0af3ed366f55c2bca98a243165a351fa59dbe8a24391a938cd10c38e998c4e946f2c32d"
+      },
+      "expiry": 1708796276864
+    },
+    "/opt/homebrew/bin/python3.9.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.9.18 64-bit",
+        "hash": "70e4e72b72e5f2c4b58819a24af014f01b7be12111366334bd995ec897b09c973b2538519075e1cc970f1910e410ed7cdd995b9302b870c92a0c85b48644615d-e480eb0fd0ffe89be995c43af9e8d385"
+      },
+      "expiry": 1716401284277
+    },
+    "/opt/homebrew/bin/python3.9.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "70e4e72b72e5f2c4b58819a24af014f01b7be12111366334bd995ec897b09c973b2538519075e1cc970f1910e410ed7cdd995b9302b870c92a0c85b48644615d",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3.9",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.9.18-final",
+            "major": 3,
+            "minor": 9,
+            "patch": 18,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.9.18-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+          "fileHash": "70e4e72b72e5f2c4b58819a24af014f01b7be12111366334bd995ec897b09c973b2538519075e1cc970f1910e410ed7cdd995b9302b870c92a0c85b48644615d",
+          "type": "Unknown",
+          "displayName": "Python 3.9.18 64-bit"
+        }
+      },
+      "expiry": 1716401284324
+    },
+    "/opt/homebrew/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.8-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "93de92fe522704259c5980499e2ba103d29a66254bad5592b071ee2fadc95a6b0d9759fc5a018a48f3e221ed4453bab75f3ae81714aad4f0dc775c84ffde830b"
+      },
+      "expiry": 1716401025378
+    },
+    "/opt/homebrew/opt/python@3.11/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.8-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 8,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.8-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+        "fileHash": "83c28564a56b5fe9ed318e50770d879da6b8e8180b6efcdd7fd329e09d84cdc0b7f92c9315ca1ed482914f673afdb10de136ac51865b63479e3520b07f7df709"
+      },
+      "expiry": 1716401326944
+    },
+    "/opt/homebrew/opt/python@3.11/bin/python3.11.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.8 64-bit",
+        "hash": "83c28564a56b5fe9ed318e50770d879da6b8e8180b6efcdd7fd329e09d84cdc0b7f92c9315ca1ed482914f673afdb10de136ac51865b63479e3520b07f7df709-fb8371cc4a653fe2568f38497c27cb47"
+      },
+      "expiry": 1716401327233
+    },
+    "/opt/homebrew/opt/python@3.11/bin/python3.11.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "83c28564a56b5fe9ed318e50770d879da6b8e8180b6efcdd7fd329e09d84cdc0b7f92c9315ca1ed482914f673afdb10de136ac51865b63479e3520b07f7df709",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.8-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.8-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+          "fileHash": "83c28564a56b5fe9ed318e50770d879da6b8e8180b6efcdd7fd329e09d84cdc0b7f92c9315ca1ed482914f673afdb10de136ac51865b63479e3520b07f7df709",
+          "type": "Unknown",
+          "displayName": "Python 3.11.8 64-bit"
+        }
+      },
+      "expiry": 1716401327254
+    },
+    "/opt/homebrew/bin/python3.10.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.10.13 64-bit",
+        "hash": "81ef164ed8a356da5ff8645a36f2ff323a958dfb4277e3eb25f8422dfb5c467d6c3260228465f74ef8059cf7ab815d367f11666f4a4e80dd1919ddff6ae46a50-e8735a695067e811aa937291b09f3285"
+      },
+      "expiry": 1716401284273
+    },
+    "/opt/homebrew/bin/python3.10.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "81ef164ed8a356da5ff8645a36f2ff323a958dfb4277e3eb25f8422dfb5c467d6c3260228465f74ef8059cf7ab815d367f11666f4a4e80dd1919ddff6ae46a50",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3.10",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.10.13-final",
+            "major": 3,
+            "minor": 10,
+            "patch": 13,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.10.13-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+          "fileHash": "81ef164ed8a356da5ff8645a36f2ff323a958dfb4277e3eb25f8422dfb5c467d6c3260228465f74ef8059cf7ab815d367f11666f4a4e80dd1919ddff6ae46a50",
+          "type": "Unknown",
+          "displayName": "Python 3.10.13 64-bit"
+        }
+      },
+      "expiry": 1716401284314
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.2-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld",
+        "fileHash": "6b5a274abe75574f883c405f39918d4be026b1616bb5067520aac4602021800185d3f58bc7b68bbdb12f014029f0d1045df3c844c376a27acb6876e28f866ce6"
+      },
+      "expiry": 1682696953066
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld",
+        "fileHash": "b32f3c7ccdc25e97443d6bfa9a65ee38267666a533be17e54cf8da6a01302f3eedb3e7d4417865d6347ac084c0c89729cb5ec1f7a88b2517d97440c53ae47caf"
+      },
+      "expiry": 1698518931101
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.2-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld",
+        "fileHash": "d19ce68703fa67e1a6b8901e56420a37ed03910ad45918e021d8a048bf417fbb51d1f9fd5c543695bc6ad16f6a4ec732d759bbd5a87898ceea16e080ad424c3e"
+      },
+      "expiry": 1682696953126
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.5 64-bit",
+        "hash": "b32f3c7ccdc25e97443d6bfa9a65ee38267666a533be17e54cf8da6a01302f3eedb3e7d4417865d6347ac084c0c89729cb5ec1f7a88b2517d97440c53ae47caf-649e83460211e05a0f549b395fb9e38e"
+      },
+      "expiry": 1698518931291
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "b32f3c7ccdc25e97443d6bfa9a65ee38267666a533be17e54cf8da6a01302f3eedb3e7d4417865d6347ac084c0c89729cb5ec1f7a88b2517d97440c53ae47caf",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.5-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.5-final"
+          },
+          "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld",
+          "fileHash": "b32f3c7ccdc25e97443d6bfa9a65ee38267666a533be17e54cf8da6a01302f3eedb3e7d4417865d6347ac084c0c89729cb5ec1f7a88b2517d97440c53ae47caf",
+          "type": "Unknown",
+          "displayName": "Python 3.11.5 64-bit",
+          "__store": true
+        }
+      },
+      "expiry": 1698518931281
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.2 64-bit",
+        "hash": "d19ce68703fa67e1a6b8901e56420a37ed03910ad45918e021d8a048bf417fbb51d1f9fd5c543695bc6ad16f6a4ec732d759bbd5a87898ceea16e080ad424c3e-42009af0c8aacd922e140c8b19ed5de7"
+      },
+      "expiry": 1682696953114
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d19ce68703fa67e1a6b8901e56420a37ed03910ad45918e021d8a048bf417fbb51d1f9fd5c543695bc6ad16f6a4ec732d759bbd5a87898ceea16e080ad424c3e",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.2-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.2-final"
+          },
+          "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld",
+          "fileHash": "d19ce68703fa67e1a6b8901e56420a37ed03910ad45918e021d8a048bf417fbb51d1f9fd5c543695bc6ad16f6a4ec732d759bbd5a87898ceea16e080ad424c3e",
+          "type": "Unknown",
+          "displayName": "Python 3.11.2 64-bit"
+        }
+      },
+      "expiry": 1682696953129
+    },
+    "pylint_DisableLinterInstallPrompt": true,
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.2-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld",
+        "fileHash": "946106cda54b7d9785399e263d7cd7f3f20491c25c0c718a5f1ed0bacea71110277b6c09245d17c7b08b2ab37b7f722b3ab116ac20a7538762017522400cbd3f"
+      },
+      "expiry": 1679515459452
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.2-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld",
+        "fileHash": "7f2665472ce0da39c045f83fab27c0be41216597e1240c962550f49a81947697a27edfa3ec7d8990f71eb2f4ca516c6ec2387d9675f5ba2185df342ebcb3e3d1"
+      },
+      "expiry": 1679515459455
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.2-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld",
+        "fileHash": "a4265cdd8734051b904fc5731520295a4f1ed31070b37f4ca88e3089ad04d7cf4860e1cb576ebe21a372af53f98864dc7e83878060788b25b83d44d167d5cae2"
+      },
+      "expiry": 1679515459507
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.2 64-bit",
+        "hash": "946106cda54b7d9785399e263d7cd7f3f20491c25c0c718a5f1ed0bacea71110277b6c09245d17c7b08b2ab37b7f722b3ab116ac20a7538762017522400cbd3f-c3459540726428d032835e2a31c3dbf8"
+      },
+      "expiry": 1679515459558
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "946106cda54b7d9785399e263d7cd7f3f20491c25c0c718a5f1ed0bacea71110277b6c09245d17c7b08b2ab37b7f722b3ab116ac20a7538762017522400cbd3f",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.2-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.2-final"
+          },
+          "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld",
+          "fileHash": "946106cda54b7d9785399e263d7cd7f3f20491c25c0c718a5f1ed0bacea71110277b6c09245d17c7b08b2ab37b7f722b3ab116ac20a7538762017522400cbd3f",
+          "type": "Unknown",
+          "displayName": "Python 3.11.2 64-bit"
+        }
+      },
+      "expiry": 1679515459563
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.2 64-bit",
+        "hash": "7f2665472ce0da39c045f83fab27c0be41216597e1240c962550f49a81947697a27edfa3ec7d8990f71eb2f4ca516c6ec2387d9675f5ba2185df342ebcb3e3d1-01e93da63cdfce7a1cf736f33a79b1d1"
+      },
+      "expiry": 1679515559823
+    },
+    "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "7f2665472ce0da39c045f83fab27c0be41216597e1240c962550f49a81947697a27edfa3ec7d8990f71eb2f4ca516c6ec2387d9675f5ba2185df342ebcb3e3d1",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.2-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.2-final"
+          },
+          "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/Fresh/myworld",
+          "fileHash": "7f2665472ce0da39c045f83fab27c0be41216597e1240c962550f49a81947697a27edfa3ec7d8990f71eb2f4ca516c6ec2387d9675f5ba2185df342ebcb3e3d1",
+          "type": "Unknown",
+          "displayName": "Python 3.11.2 64-bit"
+        }
+      },
+      "expiry": 1679515559837
+    },
+    "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.2-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv",
+        "fileHash": "4d7a8b0fc56aa8c2af33568186c26329e990075593720d3b6dcc336900fec1d2f9485a7e358bc6b6cafedf9012de75b0d2102963e49f429b183673c3b3736b65"
+      },
+      "expiry": 1679665597374
+    },
+    "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.2-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv",
+        "fileHash": "66b7c245ea8e4570c5cc5becf294821c81afd7fc801d5ebb1a94673292ec54ede9d3c23edfca748c692e825fced4514629cd18b443bf50cfe745cd6abecb2e5e"
+      },
+      "expiry": 1679665597401
+    },
+    "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.2-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv",
+        "fileHash": "4e08be3c069aa6945ae113b31485ce5e9a50a10e25c0c034f358e1f5827221dce56fc7ad60a77d0096190eea8c05de2a2d558d1fd129abc1e0a43341096aaec2"
+      },
+      "expiry": 1679665597403
+    },
+    "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.2 64-bit",
+        "hash": "4e08be3c069aa6945ae113b31485ce5e9a50a10e25c0c034f358e1f5827221dce56fc7ad60a77d0096190eea8c05de2a2d558d1fd129abc1e0a43341096aaec2-71068de78b7a667fe207cb481d4b66ed"
+      },
+      "expiry": 1679665597386
+    },
+    "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "4e08be3c069aa6945ae113b31485ce5e9a50a10e25c0c034f358e1f5827221dce56fc7ad60a77d0096190eea8c05de2a2d558d1fd129abc1e0a43341096aaec2",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.2-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.2-final"
+          },
+          "sysPrefix": "/Users/andyclark1/dev/WIHDPrintMonitor/Django/venv",
+          "fileHash": "4e08be3c069aa6945ae113b31485ce5e9a50a10e25c0c034f358e1f5827221dce56fc7ad60a77d0096190eea8c05de2a2d558d1fd129abc1e0a43341096aaec2",
+          "type": "Unknown",
+          "displayName": "Python 3.11.2 64-bit"
+        }
+      },
+      "expiry": 1679665597409
+    },
+    "/opt/homebrew/anaconda3/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "866bb988af165b9a0b3c9de93a759dd48803998129b8d7cee34b22e46a9672ccb52948aebacde0df8a1e96eca8b7fd9db6cba2f2e0be8621c0f7139bdc353058"
+      },
+      "expiry": 1716401025219
+    },
+    "CONDA_ENVIRONMENTS": {},
+    "/opt/homebrew/anaconda3/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.4 64-bit ('anaconda3': conda)",
+        "hash": "866bb988af165b9a0b3c9de93a759dd48803998129b8d7cee34b22e46a9672ccb52948aebacde0df8a1e96eca8b7fd9db6cba2f2e0be8621c0f7139bdc353058-450921f0b1997be7a07da42c0a81a4b5"
+      },
+      "expiry": 1716401025461
+    },
+    "/opt/homebrew/anaconda3/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "866bb988af165b9a0b3c9de93a759dd48803998129b8d7cee34b22e46a9672ccb52948aebacde0df8a1e96eca8b7fd9db6cba2f2e0be8621c0f7139bdc353058",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/anaconda3/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.4-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 4,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.4-final"
+          },
+          "sysPrefix": "/opt/homebrew/anaconda3",
+          "fileHash": "866bb988af165b9a0b3c9de93a759dd48803998129b8d7cee34b22e46a9672ccb52948aebacde0df8a1e96eca8b7fd9db6cba2f2e0be8621c0f7139bdc353058",
+          "companyDisplayName": "Anaconda, Inc.",
+          "type": "Conda",
+          "envPath": "/opt/homebrew/anaconda3",
+          "envName": "anaconda3",
+          "displayName": "Python 3.11.4 64-bit ('anaconda3': conda)"
+        }
+      },
+      "expiry": 1716401025541
+    },
+    "/opt/homebrew/anaconda3/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "97f9d38c428be82c60be5a5b70f4c5f19a3995e3c870a0bd6b238488dba9627bfb27b4b2a9cffc5c3fc5d72409d51a67742c8927f3ce95cfdb123f2f80ca2a46"
+      },
+      "expiry": 1694708625477
+    },
+    "/opt/homebrew/anaconda3/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "86bc1c25a25f6a86d9b8fd375b45c63463a8c1579d37ce9f209e97fbff7ad4cd6c88be43c2ef471a36cd66c1b41c6fe967cf0ac46f297bc8112e97ca931d3fb1"
+      },
+      "expiry": 1694708625479
+    },
+    "/opt/homebrew/anaconda3/bin/python3.1.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "2b4ac17e624fedb160759482f2262bf1f6d88032bf07d0df0e54166bc4e33f93d62d8edbe8c334081d48c7bd65acde3dfef4035ef5a8cb6f4f7521099eff0823"
+      },
+      "expiry": 1694708625481
+    },
+    "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3.11.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "1c2d0c81a3d5a0d587d46c1c4b5243f3a7ce031a742cac13b3f58553d8ffc4dfe854d95db238fb811f3a9bb368359edced60e0f484705a7f6297eef0db401d31"
+      },
+      "expiry": 1696276141367
+    },
+    "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "8a0726b16f2d58316b98accd79b474b54c95c526a26fa950de2a184c7f20d60a98f921c7bfeeeadc41b681b9737e2071f925b91df93f2373ffad5ed7bd97c42a"
+      },
+      "expiry": 1696276141372
+    },
+    "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "244192d53f8ca6c8665f0ccaea934858a8fb214577dffd8afd9884213d8381dc22e99c65cf232c59787ca3981b05e57c8df6708819b85cae10edfdec345402bb"
+      },
+      "expiry": 1696276141374
+    },
+    "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.5 64-bit ('venv': venv)",
+        "hash": "244192d53f8ca6c8665f0ccaea934858a8fb214577dffd8afd9884213d8381dc22e99c65cf232c59787ca3981b05e57c8df6708819b85cae10edfdec345402bb-11c2e21975a59f24ed0c7cb24a05169b"
+      },
+      "expiry": 1696277236849
+    },
+    "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "244192d53f8ca6c8665f0ccaea934858a8fb214577dffd8afd9884213d8381dc22e99c65cf232c59787ca3981b05e57c8df6708819b85cae10edfdec345402bb",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.5-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 5,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.5-final"
+          },
+          "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+          "fileHash": "244192d53f8ca6c8665f0ccaea934858a8fb214577dffd8afd9884213d8381dc22e99c65cf232c59787ca3981b05e57c8df6708819b85cae10edfdec345402bb",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.11.5 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1696277236958
+    },
+    "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "8a0726b16f2d58316b98accd79b474b54c95c526a26fa950de2a184c7f20d60a98f921c7bfeeeadc41b681b9737e2071f925b91df93f2373ffad5ed7bd97c42a"
+      },
+      "expiry": 1696277236818
+    },
+    "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.5 64-bit ('venv': venv)",
+        "hash": "8a0726b16f2d58316b98accd79b474b54c95c526a26fa950de2a184c7f20d60a98f921c7bfeeeadc41b681b9737e2071f925b91df93f2373ffad5ed7bd97c42a-759f94b663c912fa307022a2a4dbe0da"
+      },
+      "expiry": 1696277237028
+    },
+    "/opt/homebrew/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "bd351ebe7984fea6140df5dc45f15dceff018b116e251a0e54b6d68e06c90aee0dc237ee9cb3035a3fa011b762863a5b43daffb78d2ab2c6db3abb901bbf9b42"
+      },
+      "expiry": 1716401025384
+    },
+    "/opt/homebrew/bin/python3.12.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.1 64-bit",
+        "hash": "9c48e9e378ead485826c2ad04ffa7e73fb52f78744641740ce961a9a8cb1b66754cd01457e915e68f6ad9d876d63f89b4534b7b368b6775d9b423da9624843b7-fe4faaf70ffc45c60f4da85570036d8f"
+      },
+      "expiry": 1709136733186
+    },
+    "/opt/homebrew/bin/python3.12.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "9c48e9e378ead485826c2ad04ffa7e73fb52f78744641740ce961a9a8cb1b66754cd01457e915e68f6ad9d876d63f89b4534b7b368b6775d9b423da9624843b7",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3.12",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.1-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 1,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.1-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+          "fileHash": "9c48e9e378ead485826c2ad04ffa7e73fb52f78744641740ce961a9a8cb1b66754cd01457e915e68f6ad9d876d63f89b4534b7b368b6775d9b423da9624843b7",
+          "type": "Unknown",
+          "displayName": "Python 3.12.1 64-bit"
+        }
+      },
+      "expiry": 1709136733250
+    },
+    "/opt/homebrew/opt/python@3.12/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+        "fileHash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe"
+      },
+      "expiry": 1716401282670
+    },
+    "/opt/homebrew/opt/python@3.12/bin/python3.12.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.2 64-bit",
+        "hash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe-2208cda3990da04573a988df026703da"
+      },
+      "expiry": 1716401284288
+    },
+    "/opt/homebrew/opt/python@3.12/bin/python3.12.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.2-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.2-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+          "fileHash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe",
+          "type": "Unknown",
+          "displayName": "Python 3.12.2 64-bit"
+        }
+      },
+      "expiry": 1716401284355
+    },
+    "/opt/homebrew/bin/python3.11.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.11.8 64-bit",
+        "hash": "93de92fe522704259c5980499e2ba103d29a66254bad5592b071ee2fadc95a6b0d9759fc5a018a48f3e221ed4453bab75f3ae81714aad4f0dc775c84ffde830b-ccb1eeca9647db887bf93a99c88e63d3"
+      },
+      "expiry": 1716401284280
+    },
+    "/opt/homebrew/bin/python3.11.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "93de92fe522704259c5980499e2ba103d29a66254bad5592b071ee2fadc95a6b0d9759fc5a018a48f3e221ed4453bab75f3ae81714aad4f0dc775c84ffde830b",
+        "info": {
+          "architecture": 3,
+          "path": "/opt/homebrew/bin/python3.11",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.11.8-final",
+            "major": 3,
+            "minor": 11,
+            "patch": 8,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.11.8-final"
+          },
+          "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+          "fileHash": "93de92fe522704259c5980499e2ba103d29a66254bad5592b071ee2fadc95a6b0d9759fc5a018a48f3e221ed4453bab75f3ae81714aad4f0dc775c84ffde830b",
+          "type": "Unknown",
+          "displayName": "Python 3.11.8 64-bit"
+        }
+      },
+      "expiry": 1716401284335
+    },
+    "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "2b0932f4aeddfe373b6acc1a6c262de691a7536201f383b6e97a5dfff4659f4627bf6a2ced7acb69698884ff9238ca9b11819b4572ed79de715a16720521ab29"
+      },
+      "expiry": 1716401959507
+    },
+    "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051"
+      },
+      "expiry": 1716401959505
+    },
+    "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "31e09b7add872f6f07d2d4f0a26e572b7a1f89c9d2511401287843d47c75ca2525c79d0926ea0df03ded1ddb1d6c337dfcf3c3e0b06a32f712ebc829f45545a5"
+      },
+      "expiry": 1716401959509
+    },
+    "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.2 64-bit",
+        "hash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051-e830df1e5bdd71655ff3e2f0387e2b3c"
+      },
+      "expiry": 1716401959863
+    },
+    "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051",
+        "info": {
+          "architecture": 3,
+          "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.2-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 2,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.2-final"
+          },
+          "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+          "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051",
+          "type": "Unknown",
+          "displayName": "Python 3.12.2 64-bit"
+        }
+      },
+      "expiry": 1716401959935
+    },
+    "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "76763365906013c97a6e505e38f379ccd18442afafa215d2f28fcc32be8d8259b6c50b7bef62101f9a77cb955a48672bd2cd1604e8445794fe0059d5dad2940c"
+      },
+      "expiry": 1716401025481
+    },
+    "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.2 64-bit ('venv': venv)",
+        "hash": "76763365906013c97a6e505e38f379ccd18442afafa215d2f28fcc32be8d8259b6c50b7bef62101f9a77cb955a48672bd2cd1604e8445794fe0059d5dad2940c-aac91b6e252d35ce4342ce0d2ec2b639"
+      },
+      "expiry": 1716401025642
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+      "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "ffd43bb567d744f23261186782993b11f6da117ad790d4cdd96b7988b1df8dc6aa83686fc51234572e2bc4636a31e06a8fed75e94e66ff80ce6e900bbb48f579",
+      "type": "Unknown",
+      "displayName": "Python 3.12.2 64-bit"
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "ffd43bb567d744f23261186782993b11f6da117ad790d4cdd96b7988b1df8dc6aa83686fc51234572e2bc4636a31e06a8fed75e94e66ff80ce6e900bbb48f579",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.12.2 64-bit"
+    },
+    "InterpreterAutoSeletionRule-environment": {
+      "architecture": 3,
+      "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+      "fileHash": "31e09b7add872f6f07d2d4f0a26e572b7a1f89c9d2511401287843d47c75ca2525c79d0926ea0df03ded1ddb1d6c337dfcf3c3e0b06a32f712ebc829f45545a5",
+      "type": "VirtualEnv"
+    }
+  },
+  "coc-python|/Users/andyclark1/Downloads/2022/Randomness and Computation/homework": {
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:29cca14b23ad7f63a10332da2a6659dd": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:29cca14b23ad7f63a10332da2a6659dd": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/Downloads/2022/Randomness and Computation/homework": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.9/bin/python3.9",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.9.9-final",
+        "major": 3,
+        "minor": 9,
+        "patch": 9,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.9.9-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.9/Frameworks/Python.framework/Versions/3.9",
+      "fileHash": "db530ea46e0d33e8ff6767e57a269774f342fbc48b89c9c997bf29a649b54708184fa0425841ab621fc2be1aaf46c7f63a689d7c55575e160b0c35125f33b8be",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|/Users/andyclark1": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/andyclark1/code/bitcoin": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:c7a39f48e33e1ce27fa9ab2b22ab1f9c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:c7a39f48e33e1ce27fa9ab2b22ab1f9c": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/code/bitcoin": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "8dcd04f6d3d43fae6c6f8cea70a978fc7a795d978e5947967651ce32665d7aa0f9e1bbe7f3e9923dbe279b82430f9e717326b0f264afc8f42b30303471eb2063",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/code/tradebot": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:672a8a8348e74828d1f81c2e8993f3bd": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:672a8a8348e74828d1f81c2e8993f3bd": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/code/tradebot": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "8dcd04f6d3d43fae6c6f8cea70a978fc7a795d978e5947967651ce32665d7aa0f9e1bbe7f3e9923dbe279b82430f9e717326b0f264afc8f42b30303471eb2063",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/stocks/stockscreener": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5e23c230aac5ba9e6c84c3e722c828b3": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5e23c230aac5ba9e6c84c3e722c828b3": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/stocks/stockscreener": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.10/bin/python3.10",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.10.7-final",
+        "major": 3,
+        "minor": 10,
+        "patch": 7,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.10.7-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.10/Frameworks/Python.framework/Versions/3.10",
+      "fileHash": "8dcd04f6d3d43fae6c6f8cea70a978fc7a795d978e5947967651ce32665d7aa0f9e1bbe7f3e9923dbe279b82430f9e717326b0f264afc8f42b30303471eb2063",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.10.7 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/PrintMonitor/Test/PrintMonitor/PrintMonitor/spiders": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:3922d3224d98ac408d5c0133b746669d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:3922d3224d98ac408d5c0133b746669d": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/PrintMonitor/Test/PrintMonitor/PrintMonitor/spiders": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/PrintMonitor/Test/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:063137782311ee8f585ef9566efa4895": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:063137782311ee8f585ef9566efa4895": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/PrintMonitor/Test/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/PrintMonitor/PrintMonitor/PrintMonitor/spiders": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7dfaedab5f5fc84ff3f79e86a9dc70a8": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7dfaedab5f5fc84ff3f79e86a9dc70a8": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/PrintMonitor/PrintMonitor/PrintMonitor/spiders": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/PrintMonitor/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:6487cb707eda5acc2dcd5c181eb9b37a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:6487cb707eda5acc2dcd5c181eb9b37a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/PrintMonitor/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/Spring 2023": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:5d4cb069867dad64879d4cfc846bcfa4": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:5d4cb069867dad64879d4cfc846bcfa4": [],
+    "SelectedPythonPath": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3",
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/Spring 2023": {
+      "architecture": 3,
+      "path": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/Users/andyclark1/2023/Spring 2023/Software Engineering/SEGA/Delivery3/myworld",
+      "fileHash": "cd67ad3da5a942647bdefc8c754dede220cd75c859b0d697e661806eb875e2b9c9b2be6f9ba3a574447f7ca90be895d1e8e16821caee35322560e09a4a4ec246",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/test/SEGA": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a30bfb9f40091dfad1353aac869c3bad": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a30bfb9f40091dfad1353aac869c3bad": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/test/SEGA": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/PrintMonitor/PrintMonitor/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:cf853ac186026fd9841dffd1f2baad13": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:cf853ac186026fd9841dffd1f2baad13": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/PrintMonitor/PrintMonitor/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/PrintMonitor/PrintMonitor/tmp": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/Users/andyclark1/dev/PrintMonitor/Frontend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:597a4609a2f041a08700f6994d66f5f2": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:597a4609a2f041a08700f6994d66f5f2": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/dev/PrintMonitor/Frontend": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/dev/PrintMonitor/Frontend/Frontend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:752516d5c4465d77a0f18998293d04fc": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:752516d5c4465d77a0f18998293d04fc": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/dev/PrintMonitor/Frontend/Frontend": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/dev/WIHDPrintMonitor/Django/print_monitor/monitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:83bedbb1aa5c02d73892a35a49912259": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:83bedbb1aa5c02d73892a35a49912259": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/dev/WIHDPrintMonitor/Django/print_monitor/monitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/dev/PrintMonitor/PrintMonitor/PrintMonitor/spiders": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2afa9cac9973992571bc5bcf53e31c98": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2afa9cac9973992571bc5bcf53e31c98": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/dev/PrintMonitor/PrintMonitor/PrintMonitor/spiders": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/dev/PrintMonitor/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fdd53324ed75c850cf0617287296db42": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fdd53324ed75c850cf0617287296db42": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/dev/PrintMonitor/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/opt/homebrew": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7f48cdfd68a81961bce0d45323b2ac1a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7f48cdfd68a81961bce0d45323b2ac1a": [
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "866bb988af165b9a0b3c9de93a759dd48803998129b8d7cee34b22e46a9672ccb52948aebacde0df8a1e96eca8b7fd9db6cba2f2e0be8621c0f7139bdc353058",
+        "envName": "anaconda3",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "86bc1c25a25f6a86d9b8fd375b45c63463a8c1579d37ce9f209e97fbff7ad4cd6c88be43c2ef471a36cd66c1b41c6fe967cf0ac46f297bc8112e97ca931d3fb1",
+        "envName": "anaconda3",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "2b4ac17e624fedb160759482f2262bf1f6d88032bf07d0df0e54166bc4e33f93d62d8edbe8c334081d48c7bd65acde3dfef4035ef5a8cb6f4f7521099eff0823",
+        "envName": "anaconda3",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "97f9d38c428be82c60be5a5b70f4c5f19a3995e3c870a0bd6b238488dba9627bfb27b4b2a9cffc5c3fc5d72409d51a67742c8927f3ce95cfdb123f2f80ca2a46",
+        "envName": "anaconda3",
+        "type": "VirtualEnv"
+      }
+    ],
+    "SelectedPythonPath": "/opt/homebrew/bin/python3",
+    "autoSelectedWorkspacePythonInterpreter-/opt/homebrew": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "5df94d653011b55aa4ad9e8a328b916dcea63cb5aed900ee56d5fdfdfb770a73b16440a9934152dfb902ae97b3eaecc989fc1e29efc320568c61b8e0888b2f4d",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "866bb988af165b9a0b3c9de93a759dd48803998129b8d7cee34b22e46a9672ccb52948aebacde0df8a1e96eca8b7fd9db6cba2f2e0be8621c0f7139bdc353058",
+        "envName": "anaconda3",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "86bc1c25a25f6a86d9b8fd375b45c63463a8c1579d37ce9f209e97fbff7ad4cd6c88be43c2ef471a36cd66c1b41c6fe967cf0ac46f297bc8112e97ca931d3fb1",
+        "envName": "anaconda3",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3.1",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "2b4ac17e624fedb160759482f2262bf1f6d88032bf07d0df0e54166bc4e33f93d62d8edbe8c334081d48c7bd65acde3dfef4035ef5a8cb6f4f7521099eff0823",
+        "envName": "anaconda3",
+        "type": "VirtualEnv"
+      },
+      {
+        "architecture": 3,
+        "path": "/opt/homebrew/anaconda3/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.4-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 4,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.4-final"
+        },
+        "sysPrefix": "/opt/homebrew/anaconda3",
+        "fileHash": "97f9d38c428be82c60be5a5b70f4c5f19a3995e3c870a0bd6b238488dba9627bfb27b4b2a9cffc5c3fc5d72409d51a67742c8927f3ce95cfdb123f2f80ca2a46",
+        "envName": "anaconda3",
+        "type": "VirtualEnv"
+      }
+    ]
+  },
+  "coc-python|/Users/andyclark1/tmp/SWEDeploy/TAMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1f081ffd9e953b133310b2e0981cc95c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1f081ffd9e953b133310b2e0981cc95c": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/tmp/SWEDeploy/TAMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/tmp/SWEDeploy": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b2c46938065a822a8882402e6521190c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b2c46938065a822a8882402e6521190c": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/tmp/SWEDeploy": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.2-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "63ff819fa9fc8d6b355dc22eda56b4cd31e829d7fed7362454d36df8ef842ae5e651cfe24704fda756d98403b6599aef922e4a90ac609efeaa963846799570e1",
+      "type": "Unknown",
+      "displayName": "Python 3.11.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/Spring 2023/Compilers/FinalProject/compiler": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:57767a22c34fe82ebae28cb33459911a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:57767a22c34fe82ebae28cb33459911a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/Spring 2023/Compilers/FinalProject/compiler": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.3-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "dd3e4018028fadcfbaa6e764f2f2f6c402c134f1f2352680e09cf08057c1b400988da606ccd744ad6db88466acd8fe2a39f9242f80f55a2df22626f91df899a0",
+      "type": "Unknown",
+      "displayName": "Python 3.11.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/tmp/Deploy/TAMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e89bb08d2ed74fa2b5a198e7514a8311": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e89bb08d2ed74fa2b5a198e7514a8311": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/tmp/Deploy/TAMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.3-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "280281f84ad55b800a4e85367a877bcb7c802b2c7043f7a8950f50b7e93bb8cca52f174272c9655981697ba7033d327d43755b96d96d284c231bda466171f5d6",
+      "type": "Unknown",
+      "displayName": "Python 3.11.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitor/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e13c5b7b3e8c01d55bb3aa1415fc7950": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e13c5b7b3e8c01d55bb3aa1415fc7950": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitor/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.3-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "280281f84ad55b800a4e85367a877bcb7c802b2c7043f7a8950f50b7e93bb8cca52f174272c9655981697ba7033d327d43755b96d96d284c231bda466171f5d6",
+      "type": "Unknown",
+      "displayName": "Python 3.11.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitor/PrintMonitor/PrintMonitor/spiders": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:2ad1d8d4f700a6130a1acd817ffd7454": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:2ad1d8d4f700a6130a1acd817ffd7454": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitor/PrintMonitor/PrintMonitor/spiders": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.3-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.3-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "280281f84ad55b800a4e85367a877bcb7c802b2c7043f7a8950f50b7e93bb8cca52f174272c9655981697ba7033d327d43755b96d96d284c231bda466171f5d6",
+      "type": "Unknown",
+      "displayName": "Python 3.11.3 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/code/python": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:4ddad4b69778688d093f4dcd2c9f2cd5": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:4ddad4b69778688d093f4dcd2c9f2cd5": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/code/python": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.4-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.4-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "9f7893ed269acdd449eac3a93c3140b2d3650eda5015a0fde629f81dfa5512d39b21556abbdad5c1ec5ae4939e4722053423bfd3f6b4882e130ec14fc54f9f53",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.11.4 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/Fall 2023/Randomness and Computation/notes": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:341fd68041971c414b9d2998fe0ba979": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:341fd68041971c414b9d2998fe0ba979": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/Fall 2023/Randomness and Computation/notes": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.4-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 4,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.4-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "9f7893ed269acdd449eac3a93c3140b2d3650eda5015a0fde629f81dfa5512d39b21556abbdad5c1ec5ae4939e4722053423bfd3f6b4882e130ec14fc54f9f53",
+      "type": "Unknown",
+      "displayName": "Python 3.11.4 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/trading/oldversion": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:90bd955c26727ec98efdaf6e73e63eb2": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:90bd955c26727ec98efdaf6e73e63eb2": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/trading/oldversion": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/trading/stockscreener": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a5d8400d5f4e9219bcb29fdc9c1743aa": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a5d8400d5f4e9219bcb29fdc9c1743aa": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/trading/stockscreener": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/code/scrape/tennis/tennis/spiders": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d2a906b45ae238f3faf6bc3f18fe087b": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d2a906b45ae238f3faf6bc3f18fe087b": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/code/scrape/tennis/tennis/spiders": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitor/Backend/PrintMonitor/spiders": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:23848b9102ea6dd305aee348501aafd5": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:23848b9102ea6dd305aee348501aafd5": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitor/Backend/PrintMonitor/spiders": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitor/Backend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a6ef809a53630505735d4d47ca9b4324": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a6ef809a53630505735d4d47ca9b4324": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitor/Backend": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitor/Backend/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e0dcd3e21a4167d69ff9bec1014df4dc": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e0dcd3e21a4167d69ff9bec1014df4dc": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitor/Backend/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitor/Example/Backend/example/example": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fc974816c6dc235bb32f8fe752228b20": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fc974816c6dc235bb32f8fe752228b20": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitor/Example/Backend/example/example": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/BCAuth": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:e2b42d7046bd74ee2683f4831cc56715": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:e2b42d7046bd74ee2683f4831cc56715": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/BCAuth": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/Fall 2023/Randomness and Computation/ex": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d12deb46b1da7d48bf36a365b5150dac": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d12deb46b1da7d48bf36a365b5150dac": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/Fall 2023/Randomness and Computation/ex": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/TennisMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:a301bd3e7647154abca2fe0e7bb2290a": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:a301bd3e7647154abca2fe0e7bb2290a": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/TennisMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/code/python/tennismonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1d8f507fc8822b14d26d32292fbb06fc": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1d8f507fc8822b14d26d32292fbb06fc": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/code/python/tennismonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:28568c63d1911775a35960bb707bf236": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:28568c63d1911775a35960bb707bf236": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/Fall 2023/Randomness and Computation/quiz": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:9734664d02d8e7e8f04803edeef668ea": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:9734664d02d8e7e8f04803edeef668ea": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/Fall 2023/Randomness and Computation/quiz": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitorDeployment/Backend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:0745756d78158cce640c503672643a95": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:0745756d78158cce640c503672643a95": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitorDeployment/Backend": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService:28568c63d1911775a35960bb707bf236": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:28568c63d1911775a35960bb707bf236": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitorDeployment/Backend/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:961f567802e0fc99d356a293e2162786": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:961f567802e0fc99d356a293e2162786": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitorDeployment/Backend/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/PrintMonitorDeployment": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:45505411771855c757d4fcbe77601f52": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:45505411771855c757d4fcbe77601f52": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/PrintMonitorDeployment": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/TennisMonitor/SkeletonProject/TAMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:22e9009dbaa5c86326b600039aec5f2c": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:22e9009dbaa5c86326b600039aec5f2c": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/TennisMonitor/SkeletonProject/TAMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/TennisMonitor/SkeletonProject/DjangoSkeleton/TAMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:ff4bbcfcb9c7b7071896f5be03a11b27": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:ff4bbcfcb9c7b7071896f5be03a11b27": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/TennisMonitor/SkeletonProject/DjangoSkeleton/TAMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/TennisMonitor/SkeletonProject/DjangoSkeleton": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f1e7a279b8b1b3ae967b03565d274adf": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f1e7a279b8b1b3ae967b03565d274adf": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/TennisMonitor/SkeletonProject/DjangoSkeleton": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/TennisMonitor/SkeletonProject": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b99900100ed59956136ad88a77d4571c": [],
+    "SelectedPythonPath": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b99900100ed59956136ad88a77d4571c": [
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "244192d53f8ca6c8665f0ccaea934858a8fb214577dffd8afd9884213d8381dc22e99c65cf232c59787ca3981b05e57c8df6708819b85cae10edfdec345402bb",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "8a0726b16f2d58316b98accd79b474b54c95c526a26fa950de2a184c7f20d60a98f921c7bfeeeadc41b681b9737e2071f925b91df93f2373ffad5ed7bd97c42a",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "1c2d0c81a3d5a0d587d46c1c4b5243f3a7ce031a742cac13b3f58553d8ffc4dfe854d95db238fb811f3a9bb368359edced60e0f484705a7f6297eef0db401d31",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/TennisMonitor/SkeletonProject": {
+      "architecture": 3,
+      "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+      "fileHash": "8a0726b16f2d58316b98accd79b474b54c95c526a26fa950de2a184c7f20d60a98f921c7bfeeeadc41b681b9737e2071f925b91df93f2373ffad5ed7bd97c42a",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "244192d53f8ca6c8665f0ccaea934858a8fb214577dffd8afd9884213d8381dc22e99c65cf232c59787ca3981b05e57c8df6708819b85cae10edfdec345402bb",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "8a0726b16f2d58316b98accd79b474b54c95c526a26fa950de2a184c7f20d60a98f921c7bfeeeadc41b681b9737e2071f925b91df93f2373ffad5ed7bd97c42a",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv/bin/python3.11",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.11.5-final",
+          "major": 3,
+          "minor": 11,
+          "patch": 5,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.11.5-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2023/TennisMonitor/SkeletonProject/venv",
+        "fileHash": "1c2d0c81a3d5a0d587d46c1c4b5243f3a7ce031a742cac13b3f58553d8ffc4dfe854d95db238fb811f3a9bb368359edced60e0f484705a7f6297eef0db401d31",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/Users/andyclark1/code/DDoS-Ripper": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:b3ca520696dca7e3a9a7125f1a51fac5": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:b3ca520696dca7e3a9a7125f1a51fac5": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/code/DDoS-Ripper": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2023/Fall 2023/Randomness and Computation/hw8/quiz": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7f8ef71625c8daa419dc0b785fc15d13": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7f8ef71625c8daa419dc0b785fc15d13": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2023/Fall 2023/Randomness and Computation/hw8/quiz": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2024/Technical Interview Prep/LeetcodeSolutions": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:3e92d3548b8c8eade7aae9039b3a11ce": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:3e92d3548b8c8eade7aae9039b3a11ce": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2024/Technical Interview Prep/LeetcodeSolutions": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.11/bin/python3.11",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.11.5-final",
+        "major": 3,
+        "minor": 11,
+        "patch": 5,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.11.5-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.11/Frameworks/Python.framework/Versions/3.11",
+      "fileHash": "12cb2bd4ae21eb9b80bed3b74f928614bdb4e49964120cc10ba3221718bced6c0c832519785799a6aee97fa3f72557fa1222ac48d2f60f6513c5f449a41599bb",
+      "type": "Unknown",
+      "cachedEntry": true,
+      "displayName": "Python 3.11.5 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2024/Algorithms/homework/hw2": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:1e0f09b59b08f0212f6f6b610bf75bb2": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:1e0f09b59b08f0212f6f6b610bf75bb2": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2024/Algorithms/homework/hw2": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.1-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.1-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "9c48e9e378ead485826c2ad04ffa7e73fb52f78744641740ce961a9a8cb1b66754cd01457e915e68f6ad9d876d63f89b4534b7b368b6775d9b423da9624843b7",
+      "type": "Unknown",
+      "displayName": "Python 3.12.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/stocks/teststrategy/stockscreener": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:011655d3f24ebd581b250b0b6fed8f58": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:011655d3f24ebd581b250b0b6fed8f58": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/stocks/teststrategy/stockscreener": {
+      "architecture": 3,
+      "path": "/opt/homebrew/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.1-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 1,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.1-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "9c48e9e378ead485826c2ad04ffa7e73fb52f78744641740ce961a9a8cb1b66754cd01457e915e68f6ad9d876d63f89b4534b7b368b6775d9b423da9624843b7",
+      "type": "Unknown",
+      "displayName": "Python 3.12.1 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2024/PrintMonitor": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fcce7a0b960ff9731535c6e0ed637758": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fcce7a0b960ff9731535c6e0ed637758": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2024/PrintMonitor": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe",
+      "type": "Unknown",
+      "displayName": "Python 3.12.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2024/Algorithms/3383-Spring-2024-Helpers": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:52cd729e274ee4c4f892139aea63c56d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:52cd729e274ee4c4f892139aea63c56d": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2024/Algorithms/3383-Spring-2024-Helpers": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe",
+      "type": "Unknown",
+      "displayName": "Python 3.12.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2024/Algorithms/homework/hw5": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7c178dec4bdb2d1de4f66bc6e53d5920": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7c178dec4bdb2d1de4f66bc6e53d5920": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2024/Algorithms/homework/hw5": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe",
+      "type": "Unknown",
+      "displayName": "Python 3.12.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2024/Algorithms/homework/hw6": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f64ea35f405fed1b8de627ec4c02c27f": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f64ea35f405fed1b8de627ec4c02c27f": [],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2024/Algorithms/homework/hw6": {
+      "architecture": 3,
+      "path": "/opt/homebrew/opt/python@3.12/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/opt/homebrew/opt/python@3.12/Frameworks/Python.framework/Versions/3.12",
+      "fileHash": "5f7ef9ba7bf02067dd4d25b9b197aafd901a653e7b6c41889565fe3a21e90f54f5a51945e991523168392492b78ef4fdcb37f5ab73100b4b3d665c397db42bfe",
+      "type": "Unknown",
+      "displayName": "Python 3.12.2 64-bit"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:fe2b61182e95a54f796f3fa83a028437": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:fe2b61182e95a54f796f3fa83a028437": [
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "31e09b7add872f6f07d2d4f0a26e572b7a1f89c9d2511401287843d47c75ca2525c79d0926ea0df03ded1ddb1d6c337dfcf3c3e0b06a32f712ebc829f45545a5",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "2b0932f4aeddfe373b6acc1a6c262de691a7536201f383b6e97a5dfff4659f4627bf6a2ced7acb69698884ff9238ca9b11819b4572ed79de715a16720521ab29",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/opt/homebrew/bin/python3.11",
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "db931b31636ea303b1d83f60ed9da5d73e8fdfd53687ad6326999ddbb93118ed5c7440b238bcc3ec450c8b846572496667503f23abb52f06d4fb43f5d82a1051",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "31e09b7add872f6f07d2d4f0a26e572b7a1f89c9d2511401287843d47c75ca2525c79d0926ea0df03ded1ddb1d6c337dfcf3c3e0b06a32f712ebc829f45545a5",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.2-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 2,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.2-final"
+        },
+        "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+        "fileHash": "2b0932f4aeddfe373b6acc1a6c262de691a7536201f383b6e97a5dfff4659f4627bf6a2ced7acb69698884ff9238ca9b11819b4572ed79de715a16720521ab29",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend": {
+      "architecture": 3,
+      "path": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.2-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.2-final"
+      },
+      "sysPrefix": "/Users/andyclark1/2024/MovePrintMonitor/Print Monitor/Backend/venv",
+      "fileHash": "31e09b7add872f6f07d2d4f0a26e572b7a1f89c9d2511401287843d47c75ca2525c79d0926ea0df03ded1ddb1d6c337dfcf3c3e0b06a32f712ebc829f45545a5",
+      "type": "VirtualEnv"
+    }
+  }
+}

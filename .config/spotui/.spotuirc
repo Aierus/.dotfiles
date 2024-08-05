@@ -1,0 +1,10 @@
+[spotify_api]
+user_name = arclark10222 
+client_id = 3ceb6a1fccd14da9b5cd32533777c1fa
+client_secret = 02f846ce27b14b38ac0687818261ef4d
+redirect_uri = http://localhost:8888/callback
+
+[other]
+use_nerd_fonts = yes
+config_version = 1
+

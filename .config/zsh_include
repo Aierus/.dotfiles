@@ -1,0 +1,12 @@
+if [ -f $HOME/.config/zsh_include ]; then
+    export ALPHAVANTAGE_API_KEY="O5B0EKP7YR3DT9E1"
+fi
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+export PATH="/usr/local/opt/openssl@1.1/bin:$PATH"
+export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
+export CPPFLAGS="-I/opt/homebrew/opt/openjdk/include"
+
+alias websync='rsync -uvrP --delete-after ~/websites/andyrclark/ root@andyrclark.com:/var/www/andyrclark'
+alias bcsync='rsync -vzhr --delete-after clarkui@cslab.bc.edu:/home/clarkui/cs2/ ~/2021/cs2/'  
+alias cryptosync='rsync -uvrP --delete-after public/ root@45.77.153.250:/var/www/bcblockchain'

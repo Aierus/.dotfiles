@@ -1,0 +1,6 @@
+[global]
+
+username = "arclark10222"
+password = "fixspotify"
+
+backend = "portaudio"
