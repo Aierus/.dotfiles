@@ -1,0 +1,4 @@
+association ZUI $'datetime_available' $'1' $'stat_available' $'1'
+scalar ZUI_REPO_DIR $'/Users/clara4/deps/zui'
+scalar ZUI_CONFIG_DIR $'/Users/clara4/.config/zui'
+association ZUI $'datetime_available' $'1' $'stat_available' $'1'
